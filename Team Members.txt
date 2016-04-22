@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-﻿LIST OF MEMBERS FOR TEAM 103 67
-=======
+
 LIST OF MEMBERS FOR TEAM 103
->>>>>>> origin/master
- 
+
 Semin An
  
 Chloë Polglaze
