@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿LIST OF MEMBERS FOR TEAM 103
+=======
+LIST OF MEMBERS FOR TEAM 103
+>>>>>>> origin/master
  
 Semin An (Local Memer)
  
